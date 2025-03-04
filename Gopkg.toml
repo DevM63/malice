@@ -72,6 +72,10 @@
   name = "github.com/docker/docker"
   version = "v17.04.0-ce"
   source = "github.com/moby/moby"
+[[override]]
+  name = "github.com/docker/docker"
+  version = "v17.04.0-ce"
+  source = "github.com/moby/moby"
 
 [[override]]
    name = "github.com/Nvveen/Gotty"
