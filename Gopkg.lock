@@ -143,7 +143,7 @@
   pruneopts = "UT"
   revision = "90d35abf7b3535c1c319c872900fbd76374e521c"
   source = "github.com/moby/moby"
-  version = "v17.05.0-ce-rc3"
+  version = "v20.10.21"
 
 [[projects]]
   digest = "1:1deed5e0f29a6b042688c22c7fb705f3cc265e82e0ec55818f32404d334ac6a9"
