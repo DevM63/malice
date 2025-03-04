@@ -12,8 +12,8 @@ import (
 	"github.com/docker/docker/cli"
 	"github.com/docker/go-connections/nat"
 
-	"github.com/maliceio/malice/malice/docker/client"
-	er "github.com/maliceio/malice/malice/errors"
+	"github.com/DevM63/malice/malice/docker/client"
+	er "github.com/DevM63/malice/malice/errors"
 	"golang.org/x/net/context"
 )
 

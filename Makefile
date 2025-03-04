@@ -41,7 +41,7 @@ setup: ## Install all the build and lint dependencies
 	go get -u github.com/kardianos/govendor
 	go get -u golang.org/x/tools/cmd/cover
 	go get -u github.com/golang/dep/cmd/dep
-	go get -u github.com/maliceio/malice/utils/tomlupdate
+	go get -u github.com/DevM63/malice/utils/tomlupdate
 	govendor sync
 
 test: ## Run all the tests

@@ -25,9 +25,9 @@ import (
 	"github.com/docker/docker/pkg/stringutils"
 	"github.com/docker/docker/pkg/urlutil"
 	"github.com/docker/docker/registry"
-	"github.com/maliceio/malice/config"
-	"github.com/maliceio/malice/malice/docker/client"
-	er "github.com/maliceio/malice/malice/errors"
+	"github.com/DevM63/malice/config"
+	"github.com/DevM63/malice/malice/docker/client"
+	er "github.com/DevM63/malice/malice/errors"
 
 	log "github.com/sirupsen/logrus"
 )

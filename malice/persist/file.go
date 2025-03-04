@@ -27,11 +27,11 @@ import (
 	"github.com/docker/go-units"
 	"github.com/dustin/go-jsonpointer"
 	"github.com/malice-plugins/pkgs/utils"
-	"github.com/maliceio/malice/config"
-	"github.com/maliceio/malice/malice/docker/client"
-	er "github.com/maliceio/malice/malice/errors"
-	"github.com/maliceio/malice/malice/maldirs"
-	"github.com/maliceio/malice/malice/malutils"
+	"github.com/DevM63/malice/config"
+	"github.com/DevM63/malice/malice/docker/client"
+	er "github.com/DevM63/malice/malice/errors"
+	"github.com/DevM63/malice/malice/maldirs"
+	"github.com/DevM63/malice/malice/malutils"
 	// "github.com/dutchcoders/gossdeep"
 )
 

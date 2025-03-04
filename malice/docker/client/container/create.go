@@ -12,8 +12,8 @@ import (
 	apiclient "github.com/docker/docker/client"
 	"github.com/docker/docker/pkg/jsonmessage"
 	"github.com/docker/docker/registry"
-	"github.com/maliceio/malice/malice/docker/client"
-	er "github.com/maliceio/malice/malice/errors"
+	"github.com/DevM63/malice/malice/docker/client"
+	er "github.com/DevM63/malice/malice/errors"
 	"golang.org/x/net/context"
 )
 

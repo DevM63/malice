@@ -4,8 +4,8 @@ import (
 	"os"
 
 	log "github.com/sirupsen/logrus"
-	"github.com/maliceio/malice/malice/docker/client"
-	"github.com/maliceio/malice/plugins"
+	"github.com/DevM63/malice/malice/docker/client"
+	"github.com/DevM63/malice/plugins"
 )
 
 func cmdEnablePlugin() {

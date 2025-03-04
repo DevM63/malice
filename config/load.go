@@ -9,9 +9,9 @@ import (
 
 	"github.com/BurntSushi/toml"
 	log "github.com/sirupsen/logrus"
-	er "github.com/maliceio/malice/malice/errors"
-	"github.com/maliceio/malice/malice/maldirs"
-	"github.com/maliceio/malice/utils"
+	er "github.com/DevM63/malice/malice/errors"
+	"github.com/DevM63/malice/malice/maldirs"
+	"github.com/DevM63/malice/utils"
 )
 
 // Configuration represents the malice runtime configuration.

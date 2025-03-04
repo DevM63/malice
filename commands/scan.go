@@ -10,12 +10,12 @@ import (
 	"github.com/fatih/structs"
 	"github.com/malice-plugins/pkgs/database/elasticsearch"
 	"github.com/malice-plugins/pkgs/utils"
-	"github.com/maliceio/malice/config"
-	"github.com/maliceio/malice/malice/database"
-	"github.com/maliceio/malice/malice/docker/client"
-	"github.com/maliceio/malice/malice/docker/client/container"
-	"github.com/maliceio/malice/malice/persist"
-	"github.com/maliceio/malice/plugins"
+	"github.com/DevM63/malice/config"
+	"github.com/DevM63/malice/malice/database"
+	"github.com/DevM63/malice/malice/docker/client"
+	"github.com/DevM63/malice/malice/docker/client/container"
+	"github.com/DevM63/malice/malice/persist"
+	"github.com/DevM63/malice/plugins"
 	"github.com/pkg/errors"
 )
 

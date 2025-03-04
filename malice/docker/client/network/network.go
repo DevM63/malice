@@ -4,8 +4,8 @@ import (
 	"github.com/docker/docker/api/types"
 	"github.com/docker/docker/api/types/filters"
 	"github.com/docker/docker/api/types/network"
-	"github.com/maliceio/malice/config"
-	"github.com/maliceio/malice/malice/docker/client"
+	"github.com/DevM63/malice/config"
+	"github.com/DevM63/malice/malice/docker/client"
 	"golang.org/x/net/context"
 
 	"regexp"

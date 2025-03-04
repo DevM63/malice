@@ -8,16 +8,16 @@ RUN apk add --no-cache file tini ca-certificates
 RUN apk add --no-cache -t build-deps go git mercurial build-base gcc file-dev libc-dev dep \
   && set -x \
   && echo "Building malice Go binary..." \
-  && git clone https://github.com/maliceio/malice.git /go/src/github.com/maliceio/malice \
-  && cd /go/src/github.com/maliceio/malice \
+  && git clone https://github.com/DevM63/malice.git /go/src/github.com/DevM63/malice \
+  && cd /go/src/github.com/DevM63/malice \
   && export GOPATH=/go \
   && go version \
   && dep ensure \
   && go build -ldflags "-s -w -X main.Version=${VERSION} -X main.BuildTime=$(date -u +%Y%m%d)" -o /bin/malice \
   && echo "Copy malice config files..." \
   && mkdir /malice \
-  && cp /go/src/github.com/maliceio/malice/config/config.toml /malice \
-  && cp /go/src/github.com/maliceio/malice/plugins/plugins.toml /malice \
+  && cp /go/src/github.com/DevM63/malice/config/config.toml /malice \
+  && cp /go/src/github.com/DevM63/malice/plugins/plugins.toml /malice \
   && rm -rf /go \
   && apk del --purge build-deps
 

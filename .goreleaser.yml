@@ -43,7 +43,7 @@ brew:
     owner: maliceio
     name: homebrew-tap
   folder: Formula
-  homepage: "https://github.com/maliceio/malice"
+  homepage: "https://github.com/DevM63/malice"
   description: "Open Source Malware Analysis Framework."
   install: |
     bin.install "malice"

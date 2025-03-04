@@ -1,4 +1,4 @@
-![malice logo](https://raw.githubusercontent.com/maliceio/malice/master/docs/images/logo/malice.png)
+![malice logo](https://raw.githubusercontent.com/DevM63/malice/master/docs/images/logo/malice.png)
 
 # malice
 
@@ -134,15 +134,15 @@ $ docker run -d \
          malice/elasticsearch
 ```
 
-#### See here for more details on [Known Issues/FAQs](https://github.com/maliceio/malice/blob/master/docs/KnownBugs.md) :warning:
+#### See here for more details on [Known Issues/FAQs](https://github.com/DevM63/malice/blob/master/docs/KnownBugs.md) :warning:
 
 ### Issues
 
-Find a bug? Want more features? Find something missing in the documentation? Let me know! Please don't hesitate to [file an issue](https://github.com/maliceio/malice/issues/new)
+Find a bug? Want more features? Find something missing in the documentation? Let me know! Please don't hesitate to [file an issue](https://github.com/DevM63/malice/issues/new)
 
 ### CHANGELOG
 
-See [`CHANGELOG.md`](https://github.com/maliceio/malice/blob/master/CHANGELOG.md)
+See [`CHANGELOG.md`](https://github.com/DevM63/malice/blob/master/CHANGELOG.md)
 
 ### License
 

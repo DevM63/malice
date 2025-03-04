@@ -7,7 +7,7 @@ import (
 	"strings"
 
 	log "github.com/sirupsen/logrus"
-	er "github.com/maliceio/malice/malice/errors"
+	er "github.com/DevM63/malice/malice/errors"
 )
 
 // Ping pings docker client to see if it is up or not by checking Info.

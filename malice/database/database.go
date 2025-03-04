@@ -10,10 +10,10 @@ import (
 	"github.com/docker/go-connections/nat"
 	"github.com/docker/go-units"
 	"github.com/malice-plugins/pkgs/database/elasticsearch"
-	"github.com/maliceio/malice/config"
-	"github.com/maliceio/malice/malice/docker/client"
-	"github.com/maliceio/malice/malice/docker/client/container"
-	"github.com/maliceio/malice/plugins"
+	"github.com/DevM63/malice/config"
+	"github.com/DevM63/malice/malice/docker/client"
+	"github.com/DevM63/malice/malice/docker/client/container"
+	"github.com/DevM63/malice/plugins"
 	"github.com/pkg/errors"
 )
 

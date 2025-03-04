@@ -6,9 +6,9 @@ import (
 	log "github.com/sirupsen/logrus"
 	"github.com/docker/docker/api/types"
 	"github.com/docker/go-connections/nat"
-	"github.com/maliceio/malice/config"
-	"github.com/maliceio/malice/malice/docker/client"
-	"github.com/maliceio/malice/malice/docker/client/container"
+	"github.com/DevM63/malice/config"
+	"github.com/DevM63/malice/malice/docker/client"
+	"github.com/DevM63/malice/malice/docker/client/container"
 )
 
 // Start creates an Kibana container from the image blacktop/kibana:malice

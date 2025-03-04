@@ -13,13 +13,13 @@ import (
 	"github.com/docker/docker/api/types/events"
 	"github.com/docker/docker/api/types/filters"
 	"github.com/docker/docker/api/types/versions"
-	er "github.com/maliceio/malice/malice/errors"
+	er "github.com/DevM63/malice/malice/errors"
 
-	"github.com/maliceio/malice/config"
-	"github.com/maliceio/malice/malice/docker/client"
-	"github.com/maliceio/malice/malice/docker/client/image"
-	"github.com/maliceio/malice/malice/docker/client/network"
-	"github.com/maliceio/malice/malice/docker/client/volume"
+	"github.com/DevM63/malice/config"
+	"github.com/DevM63/malice/malice/docker/client"
+	"github.com/DevM63/malice/malice/docker/client/image"
+	"github.com/DevM63/malice/malice/docker/client/network"
+	"github.com/DevM63/malice/malice/docker/client/volume"
 )
 
 func noNetHostConfig() *container.HostConfig {

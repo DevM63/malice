@@ -13,9 +13,9 @@ import (
 	"github.com/docker/docker/api/types/strslice"
 	"github.com/docker/docker/pkg/stdcopy"
 	"github.com/docker/go-connections/nat"
-	"github.com/maliceio/malice/config"
-	"github.com/maliceio/malice/malice/docker/client"
-	er "github.com/maliceio/malice/malice/errors"
+	"github.com/DevM63/malice/config"
+	"github.com/DevM63/malice/malice/docker/client"
+	er "github.com/DevM63/malice/malice/errors"
 )
 
 // Start starts a malice docker container

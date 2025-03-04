@@ -2,7 +2,7 @@ package commands
 
 import (
 	log "github.com/sirupsen/logrus"
-	"github.com/maliceio/malice/config"
+	"github.com/DevM63/malice/config"
 )
 
 func cmdWebStart() error {

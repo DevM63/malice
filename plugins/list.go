@@ -5,7 +5,7 @@ import (
 	"strings"
 
 	"github.com/crackcomm/go-clitable"
-	"github.com/maliceio/malice/utils"
+	"github.com/DevM63/malice/utils"
 )
 
 // ListEnabledPlugins lists enabled plugins

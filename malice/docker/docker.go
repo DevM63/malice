@@ -9,7 +9,7 @@ package docker
 
 // 	log "github.com/sirupsen/logrus"
 // 	docker "github.com/docker/docker/client"
-// 	"github.com/maliceio/malice/config"
+// 	"github.com/DevM63/malice/config"
 // )
 
 // // NOTE: https://github.com/eris-ltd/eris-cli/blob/master/perform/docker_run.go

@@ -1,8 +1,8 @@
-# ![malice logo](https://raw.githubusercontent.com/maliceio/malice/master/docs/images/logo/malice.png)
+# ![malice logo](https://raw.githubusercontent.com/DevM63/malice/master/docs/images/logo/malice.png)
 
 [![CircleCI](https://circleci.com/gh/maliceio/malice.png?style=shield)](https://circleci.com/gh/maliceio/malice) [![License](https://img.shields.io/badge/licence-Apache%202.0-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0) [![Docker Stars](https://img.shields.io/docker/stars/malice/engine.svg)](https://hub.docker.com/r/malice/engine/) [![Docker Pulls](https://img.shields.io/docker/pulls/malice/engine.svg)](https://hub.docker.com/r/malice/engine/) [![Docker Image](https://img.shields.io/badge/docker%20image-30.6%20MB-blue.svg)](https://hub.docker.com/r/malice/engine/)
 
-This repository contains a **Dockerfile** of the [Malice Engine](https://github.com/maliceio/malice).
+This repository contains a **Dockerfile** of the [Malice Engine](https://github.com/DevM63/malice).
 
 ### Dependencies
 
@@ -33,15 +33,15 @@ docker run --rm -v /var/run/docker.sock:/var/run/docker.sock \
 
 ## Documentation
 
-- [Documentation](https://github.com/maliceio/malice/blob/master/docs/README.md)
-- [Plugins](https://github.com/maliceio/malice/blob/master/docs/plugins)
-- [Examples](https://github.com/maliceio/malice/blob/master/docs/examples)
-- [Roadmap](https://github.com/maliceio/malice/blob/master/docs/roadmap)
-- [Contributing](https://github.com/maliceio/malice/blob/master/CHANGELOG.md)
+- [Documentation](https://github.com/DevM63/malice/blob/master/docs/README.md)
+- [Plugins](https://github.com/DevM63/malice/blob/master/docs/plugins)
+- [Examples](https://github.com/DevM63/malice/blob/master/docs/examples)
+- [Roadmap](https://github.com/DevM63/malice/blob/master/docs/roadmap)
+- [Contributing](https://github.com/DevM63/malice/blob/master/CHANGELOG.md)
 
 ### CHANGELOG
 
-See [`CHANGELOG.md`](https://github.com/maliceio/malice/blob/master/CHANGELOG.md)
+See [`CHANGELOG.md`](https://github.com/DevM63/malice/blob/master/CHANGELOG.md)
 
 ### License
 

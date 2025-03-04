@@ -12,6 +12,6 @@ Directions for installing Malice on all supported platforms is provided here. Pl
 If you have have [zsh](http://www.zsh.org/) installed you can install the zsh-completions:
 
 ```bash
-$ cd $GOPATH/src/github.com/maliceio/malice/contrib/completion/zsh
+$ cd $GOPATH/src/github.com/DevM63/malice/contrib/completion/zsh
 $ ./install.sh
 ```

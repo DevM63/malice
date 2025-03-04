@@ -7,8 +7,8 @@ import (
 
 	"github.com/BurntSushi/toml"
 	log "github.com/sirupsen/logrus"
-	er "github.com/maliceio/malice/malice/errors"
-	"github.com/maliceio/malice/malice/maldirs"
+	er "github.com/DevM63/malice/malice/errors"
+	"github.com/DevM63/malice/malice/maldirs"
 )
 
 // Plugin represents a single plugin setting.

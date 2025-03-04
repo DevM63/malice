@@ -12,10 +12,10 @@ import (
 	"github.com/docker/docker/api/types/strslice"
 	"github.com/docker/docker/pkg/archive"
 	"github.com/docker/docker/pkg/system"
-	"github.com/maliceio/malice/malice/docker/client"
-	er "github.com/maliceio/malice/malice/errors"
-	"github.com/maliceio/malice/malice/maldirs"
-	"github.com/maliceio/malice/malice/persist"
+	"github.com/DevM63/malice/malice/docker/client"
+	er "github.com/DevM63/malice/malice/errors"
+	"github.com/DevM63/malice/malice/maldirs"
+	"github.com/DevM63/malice/malice/persist"
 )
 
 // CopyToVolume copies samples into Malice volume

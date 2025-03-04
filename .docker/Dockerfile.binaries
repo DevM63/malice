@@ -4,6 +4,6 @@ MAINTAINER blacktop, https://github.com/blacktop
 
 RUN apt-get update && apt-get install -y libmagic-dev zip
 
-WORKDIR /go/src/github.com/maliceio/malice
+WORKDIR /go/src/github.com/DevM63/malice
 
 ENTRYPOINT install/scripts/compile.sh

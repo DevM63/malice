@@ -10,7 +10,7 @@ import (
 	"time"
 
 	"github.com/BurntSushi/toml"
-	"github.com/maliceio/malice/config"
+	"github.com/DevM63/malice/config"
 	"github.com/urfave/cli"
 )
 

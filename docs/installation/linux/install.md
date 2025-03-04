@@ -25,10 +25,10 @@ Download Pre-Compiled Binary
 
 #### Install Malice
 
-> **NOTE:** Grab the **latest** release [here](https://github.com/maliceio/malice/releases/latest)
+> **NOTE:** Grab the **latest** release [here](https://github.com/DevM63/malice/releases/latest)
 
 ```bash
-$ wget https://github.com/maliceio/malice/releases/download/v0.3.11/malice_0.3.11_linux_amd64.tar.gz -O /tmp/malice.tar.gz
+$ wget https://github.com/DevM63/malice/releases/download/v0.3.11/malice_0.3.11_linux_amd64.tar.gz -O /tmp/malice.tar.gz
 $ sudo tar -xzf /tmp/malice.tar.gz -C /usr/local/bin/
 ```
 
@@ -60,13 +60,13 @@ $ export PATH=$PATH:$GOPATH/bin
 #### Install Malice
 
 ```bash
-$ go get -v github.com/maliceio/malice
+$ go get -v github.com/DevM63/malice
 ```
 
 #### Uninstall Malice
 
 ```bash
-$ rm $GOPATH/src/github.com/maliceio/malice
+$ rm $GOPATH/src/github.com/DevM63/malice
 $ rm $GOPATH/bin/malice
 $ rm -rf ~/.malice
 ```

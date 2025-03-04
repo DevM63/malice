@@ -9,11 +9,11 @@ import (
 	log "github.com/sirupsen/logrus"
 	"github.com/urfave/cli"
 
-	"github.com/maliceio/malice/commands"
-	"github.com/maliceio/malice/config"
-	"github.com/maliceio/malice/malice/logger"
-	"github.com/maliceio/malice/malice/maldirs"
-	"github.com/maliceio/malice/plugins"
+	"github.com/DevM63/malice/commands"
+	"github.com/DevM63/malice/config"
+	"github.com/DevM63/malice/malice/logger"
+	"github.com/DevM63/malice/malice/maldirs"
+	"github.com/DevM63/malice/plugins"
 )
 
 var (

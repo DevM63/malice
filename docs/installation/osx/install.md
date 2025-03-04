@@ -11,7 +11,7 @@ $ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/inst
 #### Install Malice
 
 ```bash
-$ wget https://github.com/maliceio/malice/releases/download/v0.2.0-alpha/malice_0.2.0-alpha_linux_amd64.zip -O /tmp/malice.zip
+$ wget https://github.com/DevM63/malice/releases/download/v0.2.0-alpha/malice_0.2.0-alpha_linux_amd64.zip -O /tmp/malice.zip
 $ sudo unzip /tmp/malice.zip -d /usr/local/bin/
 ```
 
@@ -29,7 +29,7 @@ $ rm -rf ~/.malice
 #### Install Malice
 
 ```bash
-$ brew install https://raw.githubusercontent.com/maliceio/malice/master/contrib/homebrew/Formula/malice.rb
+$ brew install https://raw.githubusercontent.com/DevM63/malice/master/contrib/homebrew/Formula/malice.rb
 ```
 
 > **NOTE:** Included with the homebrew install are zsh completions :sunglasses:

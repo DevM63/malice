@@ -7,9 +7,9 @@ import (
 
 	log "github.com/sirupsen/logrus"
 	"github.com/docker/docker/api/types"
-	"github.com/maliceio/malice/config"
-	"github.com/maliceio/malice/malice/docker/client"
-	er "github.com/maliceio/malice/malice/errors"
+	"github.com/DevM63/malice/config"
+	"github.com/DevM63/malice/malice/docker/client"
+	er "github.com/DevM63/malice/malice/errors"
 )
 
 // List returns array of types.Containers and error

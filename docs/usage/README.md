@@ -59,7 +59,7 @@ Lookup a Hash
 $ malice lookup 6fe80e56ad4de610304bab1675ce84d16ab6988e
 ```
 
-See [Lookup Output](https://github.com/maliceio/malice/blob/master/docs/examples/lookup.md)
+See [Lookup Output](https://github.com/DevM63/malice/blob/master/docs/examples/lookup.md)
 
 Scan Some Malware
 -----------------
@@ -68,7 +68,7 @@ Scan Some Malware
 $ malice scan befb88b89c2eb401900a68e9f5b78764203f2b48264fcc3f7121bf04a57fd408
 ```
 
-See [Scan Output](https://github.com/maliceio/malice/blob/master/docs/examples/scan.md)
+See [Scan Output](https://github.com/DevM63/malice/blob/master/docs/examples/scan.md)
 
 Watch a Folder
 --------------

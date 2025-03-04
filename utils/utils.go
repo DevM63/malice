@@ -17,7 +17,7 @@ import (
 
 	"github.com/dustin/go-jsonpointer"
 	"github.com/jordan-wright/email"
-	er "github.com/maliceio/malice/malice/errors"
+	er "github.com/DevM63/malice/malice/errors"
 	"github.com/parnurzeal/gorequest"
 )
 

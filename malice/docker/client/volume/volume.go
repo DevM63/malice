@@ -8,8 +8,8 @@ import (
 	"github.com/docker/docker/api/types/filters"
 	volumetypes "github.com/docker/docker/api/types/volume"
 	runconfigopts "github.com/docker/docker/runconfig/opts"
-	"github.com/maliceio/malice/config"
-	"github.com/maliceio/malice/malice/docker/client"
+	"github.com/DevM63/malice/config"
+	"github.com/DevM63/malice/malice/docker/client"
 	"golang.org/x/net/context"
 )
 

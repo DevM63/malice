@@ -5,7 +5,7 @@ import (
 
 	log "github.com/sirupsen/logrus"
 	"github.com/fsnotify/fsnotify"
-	"github.com/maliceio/malice/config"
+	"github.com/DevM63/malice/config"
 )
 
 func cmdWatch(folderName string, logs bool) error {

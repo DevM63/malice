@@ -16,12 +16,12 @@ import (
 	"github.com/docker/docker/api/types/strslice"
 	runconfigopts "github.com/docker/docker/runconfig/opts"
 	"github.com/malice-plugins/pkgs/utils"
-	"github.com/maliceio/malice/config"
-	"github.com/maliceio/malice/malice/docker/client"
-	"github.com/maliceio/malice/malice/docker/client/container"
-	"github.com/maliceio/malice/malice/docker/client/image"
-	er "github.com/maliceio/malice/malice/errors"
-	"github.com/maliceio/malice/malice/maldirs"
+	"github.com/DevM63/malice/config"
+	"github.com/DevM63/malice/malice/docker/client"
+	"github.com/DevM63/malice/malice/docker/client/container"
+	"github.com/DevM63/malice/malice/docker/client/image"
+	er "github.com/DevM63/malice/malice/errors"
+	"github.com/DevM63/malice/malice/maldirs"
 	"github.com/parnurzeal/gorequest"
 )
 
