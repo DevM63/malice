@@ -68,9 +68,9 @@
   name = "github.com/docker/go-metrics"
   revision = "86138d05f285fd9737a99bee2d9be30866b59d72"
 
-[[override]]
+[[constraint]]
   name = "github.com/docker/docker"
-  version = "v17.04.0-ce"
+  revision = "093424bec097cdf51154255226cf999d6824633b"
   source = "github.com/moby/moby"
 
 [[override]]
