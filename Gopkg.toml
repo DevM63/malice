@@ -70,7 +70,7 @@
 
 [[constraint]]
   name = "github.com/docker/docker"
-  version = "v17.05.0-ce"
+  version = "v28.0.1"
   source = "github.com/moby/moby"
 
 [[override]]
